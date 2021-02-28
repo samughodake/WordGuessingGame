@@ -1,0 +1,39 @@
+.container {
+  border: 1px solid black;
+  text-align: center;
+  margin: auto;
+  width: 65%;
+  padding: 10px;
+  background-color: blanchedalmond;
+  height: 240px;
+  border-radius: 8px;
+}
+h3 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+button {
+  background-color: indianred;
+  color: white;
+  border-radius: 8px;
+  width: 65px;
+  height: 35px;
+  margin: 10px;
+  font-size: medium;
+  padding: 5px;
+}
+#hint {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: large;
+}
+button:hover {
+  color: brown;
+  background-color: cornsilk;
+}
+input {
+  height: 20px;
+  margin: 4px;
+  width: 19px;
+}
+#refresh {
+  width: 110px;
+}
